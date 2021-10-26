@@ -1,0 +1,8 @@
+{
+    "name": "GameEvent",
+    "displayName": "Game Event",
+    "description": "Provide an easy way to communicate between functions or objects.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {}
+}
