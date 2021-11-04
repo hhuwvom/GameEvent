@@ -1,5 +1,5 @@
 {
-    "name": "com.IdleGame.GameEvent",
+    "name": "com.idlegame.gameevent",
     "displayName": "Game Event",
     "description": "Provide an easy way to communicate between functions or objects.",
     "version": "1.0.0",
