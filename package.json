@@ -1,11 +1,13 @@
 {
-    "name": "IdleGame.GameEvent",
+    "name": "com.IdleGame.GameEvent",
     "displayName": "Game Event",
     "description": "Provide an easy way to communicate between functions or objects.",
     "version": "1.0.0",
     "unity": "2019.1",
     "unityRelease": "0f1",
-    "keywords": [],
+    "keywords": [
+        "event"
+    ],
     "category": "Design Pattern",
     "author": "Idleman Wu",
     "type": "",
